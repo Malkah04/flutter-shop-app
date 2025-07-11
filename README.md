@@ -1,16 +1,26 @@
-# flutter_application_3
+# 🛍️ Flutter Shop App
 
-A new Flutter project.
+This is a **Flutter-based mobile shopping application** built as part of my learning with Sprints. It allows users to view products, check hot offers, and register/login to continue shopping. The design is responsive and includes basic navigation and form validation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🖼️ **Product PageView** – Horizontally scroll featured items.
+- 🛒 **GridView of Products** – View products in a grid with images and titles.
+- 🛍️ **Add to Cart** – Tapping the cart icon shows a SnackBar confirmation.
+- 🔥 **Hot Offers** – A vertical ListView with product offers and descriptions.
+- 🔐 **Authentication** – Register and login with form validation and UI feedback.
+- 🎨 **Responsive UI** – Adapts well to different screen sizes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- Git & GitHub for version control
+
+
+
