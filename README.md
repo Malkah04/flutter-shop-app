@@ -25,6 +25,9 @@ This is a **Flutter-based mobile shopping application** built as part of my lear
 ## App ScreenShot
 
 ![first Page](assets/firstpage.jpg)
+![login Page](assets/login.jpg)
+![product Page](assets/addToCard.jpg)
+![hotOffers Page](assets/hotOffers.jpg)
 
 
 
